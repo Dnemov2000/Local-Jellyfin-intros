@@ -1,0 +1,15 @@
+{
+  "category": "Other",
+  "changelog": "Added Current Date Filter and Add-All button",
+  "description": "",
+  "guid": "07d86795-01f2-4d22-b174-cdc6056c3e7c",
+  "name": "Local Intros",
+  "overview": "Display flashy intros before movies and other videos",
+  "owner": "BrianCArnold",
+  "targetAbi": "10.8.0.0",
+  "timestamp": "2023-05-21T20:00:00.0000000Z",
+  "version": "2.2.0.100",
+  "status": "Deleted",
+  "autoUpdate": true,
+  "imagePath": ""
+}
